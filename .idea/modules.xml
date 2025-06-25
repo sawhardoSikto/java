@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BoubleSort/BoubleSort.iml" filepath="$PROJECT_DIR$/BoubleSort/BoubleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Compiler LabTask/Compiler LabTask.iml" filepath="$PROJECT_DIR$/Compiler LabTask/Compiler LabTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked_List/Linked_List.iml" filepath="$PROJECT_DIR$/Linked_List/Linked_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rent gui/Rent gui.iml" filepath="$PROJECT_DIR$/Rent gui/Rent gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cgpa gui/cgpa gui.iml" filepath="$PROJECT_DIR$/cgpa gui/cgpa gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coding.iml" filepath="$PROJECT_DIR$/coding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gui-practice/gui-practice.iml" filepath="$PROJECT_DIR$/gui-practice/gui-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rent/rent.iml" filepath="$PROJECT_DIR$/rent/rent.iml" />
+    </modules>
+  </component>
+</project>
